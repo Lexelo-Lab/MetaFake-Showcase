@@ -2,13 +2,13 @@
 
 **Real-Time Deepfake Detection for the Diffusion-Transformer Era**
 
-Erik Paperniuk · Viacheslav Kartushin · Naeem Ul Islam
-International Bachelor Program in Informatics, Yuan Ze University
+Yuan Ze University · Taoyuan, Taiwan
 
-> This folder is a high-level showcase of our ideas and results. It contains the
-> concept, architecture, and measured outcomes. The full source code, trained
-> model weights, and training pipeline live in our private project and are not
-> included here.
+> This repository is a high-level showcase of our ideas and results. It contains
+> the concept, architecture, measured outcomes, and selected code snippets
+> ([`CODE_SNIPPETS.md`](CODE_SNIPPETS.md)). The full source code, trained model
+> weights, and training pipeline are maintained privately and are not included
+> here.
 
 ---
 
@@ -141,3 +141,11 @@ rectified-flow, and autoregressive.
 
 *Source code, model weights, and the full training pipeline are maintained
 privately and are not part of this showcase.*
+
+---
+
+## Authors
+
+- **Erik Paperniuk** — International Bachelor Program in Informatics, Yuan Ze University, Taoyuan, Taiwan
+- **Viacheslav Kartushin** — International Bachelor Program in Informatics, Yuan Ze University, Taoyuan, Taiwan
+- **Naeem Ul Islam** — Assistant Professor, Yuan Ze University, Taoyuan, Taiwan
