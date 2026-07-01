@@ -1,4 +1,5 @@
-# MetaFake — Project Showcase
+# AI & Applications-114/2
+MetaFake — Project Showcase
 
 **Real-Time Deepfake Detection for the Diffusion-Transformer Era**
 
